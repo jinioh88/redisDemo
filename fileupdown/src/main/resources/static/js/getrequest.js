@@ -1,4 +1,4 @@
-$( document ).ready( () => {
+$(document).ready( () => {
 	// GET REQUEST
 	$("#btnGetFiles").click( (event) => {
 		event.preventDefault();
